@@ -29,3 +29,6 @@ A Jupyter Notebook or application showcasing:
 •	Generated recommendations
 •	Evaluation metrics
 
+<img width="1792" height="489" alt="image" src="https://github.com/user-attachments/assets/4b9a6cf5-dcc3-4047-b0a3-aa387f93a3af" />
+
+
